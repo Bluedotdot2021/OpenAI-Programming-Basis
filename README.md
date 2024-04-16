@@ -10,7 +10,8 @@
 还不确定采用哪种形式：直播或者录屏。
 时间也待定。
 请添加淡蓝小点微信（bluedotdot_cn）或入群，准确消息会在朋友圈和微信群内发布。
-<img src="group.jpg" alt="OpenAI编程基础群" width="150" height="150">
+
+<img src="group.jpg" alt="OpenAI编程基础群" width="200" height="200">
 
 
 ## 是否收费
